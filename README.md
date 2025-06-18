@@ -37,9 +37,18 @@ The primary goal is to provide accurate product-level forecasts that can help a 
 
 The following chart shows the model's predictions (dashed line) against the actual sales (solid line) for one of the top products. The model successfully captures the weekly seasonality and general sales trends.
 
-![Forecast for WHITE HANGING HEART T-LIGHT HOLDER](images/WHITE_HANGING_HEART_T-LIGHT_HOLDER_forecast.png)
+![image1](https://github.com/user-attachments/assets/256becc5-6c06-4547-ad8b-dd0081f3fd59)
+![image2](https://github.com/user-attachments/assets/ffe7eac3-b0bf-43fd-9e3a-3bdce330d78b)
+![image3](https://github.com/user-attachments/assets/877cb26c-a67b-466c-9a5c-ad9049ca9503)
+![image4](https://github.com/user-attachments/assets/66437bc4-c28b-49d0-b961-d78746e2441f)
+![image5](https://github.com/user-attachments/assets/649d1357-d36e-4297-9d70-3d50c38753b2)
+
+
+
+
 
 ---
+
 
 ## Setup and Usage
 
